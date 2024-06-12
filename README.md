@@ -33,8 +33,6 @@ The parameters in LTEM/GlobalValue.py can also be modified. You can change the a
 
 Note that '--init_dim' and '--gcn_dim' must be the same as the dimensions in DFTFM. 
 
-After training, it output entities.json, relations.json, types.json, weights.txt files in LTEM_output folder, which can be applied for testing in test.py.
-
 
 
 
